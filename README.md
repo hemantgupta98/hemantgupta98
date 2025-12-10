@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hemant</h1>
 <h3 align="center">A passionate in full-stack development from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hemantgupta98" alt="hemantgupta98" /></a> </p>
+
 
 - 🔭 I’m currently working on **AI Smart E-Commerce System**
 
@@ -22,6 +22,5 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/buymeacoffee Hemant"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee Hemant" /></a></p><br><br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hemantgupta98&show_icons=true&locale=en&layout=compact" alt="hemantgupta98" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hemantgupta98&" alt="hemantgupta98" /></p>
+
