@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on **AI SaaS Task Management Tool - Taskora**
 
 - 🌱 I’m currently learning **Backend and Building AI Agents**
-- 
+-  
 - 👨‍💻 All of my projects are available at [https://portfolio-main-eight-sigma.vercel.app/](https://portfolio-main-eight-sigma.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
