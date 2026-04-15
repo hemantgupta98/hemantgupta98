@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on **Ride-booking platform - SwiftRide**
+- 🔭 I’m currently working on **AI Face based attendace system - \AttendX-AI**
 
 - 🌱 I’m currently learning **Backend and Building AI Agents**
 - Projects are under Development mode......  
