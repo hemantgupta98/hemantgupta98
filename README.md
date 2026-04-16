@@ -5,7 +5,7 @@
 
 
 
-- 🔭 I’m currently working on **AI Smart E-Commerce System**
+- 🔭 I’m currently working on **AI Face Based Attendence System- AttendX-AI**
 
 - 🌱 I’m currently learning **Backend and Building AI Agents**
 
